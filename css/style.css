@@ -111,4 +111,7 @@ img {
     .banner {
         display: none;
     }
+    .content {
+        padding: 90px 50px;
+    }
 }
